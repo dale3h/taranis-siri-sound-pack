@@ -1,0 +1,225 @@
+SYSTEM SOUNDS
+
+0000	0
+0001	1
+0002	2
+0003	3
+0004	4
+0005	5
+0006	6
+0007	7
+0008	8
+0009	9
+0010	10
+0011	11
+0012	12
+0013	13
+0014	14
+0015	15
+0016	16
+0017	17
+0018	18
+0019	19
+0020	20
+0021	21
+0022	22
+0023	23
+0024	24
+0025	25
+0026	26
+0027	27
+0028	28
+0029	29
+0030	30
+0031	31
+0032	32
+0033	33
+0034	34
+0035	35
+0036	36
+0037	37
+0038	38
+0039	39
+0040	40
+0041	41
+0042	42
+0043	43
+0044	44
+0045	45
+0046	46
+0047	47
+0048	48
+0049	49
+0050	50
+0051	51
+0052	52
+0053	53
+0054	54
+0055	55
+0056	56
+0057	57
+0058	58
+0059	59
+0060	60
+0061	61
+0062	62
+0063	63
+0064	64
+0065	65
+0066	66
+0067	67
+0068	68
+0069	69
+0070	70
+0071	71
+0072	72
+0073	73
+0074	74
+0075	75
+0076	76
+0077	77
+0078	78
+0079	79
+0080	80
+0081	81
+0082	82
+0083	83
+0084	84
+0085	85
+0086	86
+0087	87
+0088	88
+0089	89
+0090	90
+0091	91
+0092	92
+0093	93
+0094	94
+0095	95
+0096	96
+0097	97
+0098	98
+0099	99
+0100	100
+0101	200
+0102	300
+0103	400
+0104	500
+0105	600
+0106	700
+0107	800
+0108	900
+0109	thousand
+0110	and
+0111	minus
+0112	point
+0115	volt
+0116	volts
+0117	amp
+0118	amps
+0119	meter per second
+0120	meters per second
+0123	kilometer per hour
+0124	kilometers per hour
+0125	meter
+0126	meters
+0127	degree
+0128	degrees
+0129	percent
+0130	percent
+0131	million
+0132	millions
+0133	milliamp
+0134	milliamps
+0135	watt
+0136	watts
+0137	DB
+0138	DB
+0139	foot
+0140	feet
+0141	mile per hour
+0142	miles per hour
+0143	hour
+0144	hours
+0145	minute
+0146	minutes
+0147	second
+0148	seconds
+0149	rpm
+0150	rpm
+0151	g-
+0152	g-
+0160	point zero
+0161	point one
+0162	point two
+0163	point three
+0164	point four
+0165	point five
+0166	point six
+0167	point seven
+0168	point eight
+0169	point nine
+a1_org	a- 1 low
+a1_red	a- 1 critical
+a2_org	a- 2 low
+a2_red	a- 2 critical
+a3_org	a- 3 low
+a3_red	a- 3 critical
+a4_org	a- 4 low
+a4_red	a- 4 critical
+eebad	bad e-prom
+endtrim	trim maximum
+inactiv	inactivity alarm
+lowbatt	low battery
+midtrim	trim center
+rssi_org	RSSI low
+rssi_red	RSSI critical
+swalert	switch warning
+swr_red	radio antenna defective
+tada	welcome to OpenTX
+telemko	telemetry lost
+telemok	telemetry recovered
+thralert	throttle warning
+timer10	ten seconds
+timer20	twenty seconds
+timer30	thirty seconds
+timerlt3	time is up
+atti	altitude
+batcrit	battery critical
+batlow	low battery
+camcntr	camera centered
+camfix	camera fixed
+camman	camera manual
+engdis	engine disabled
+engoff	engine off
+engon	engine on
+flaps1	flaps one
+flaps2	flaps two
+flapsdn	flaps down
+flapsup	flaps up
+fltmode1	flight mode one
+fltmode2	flight mode two
+fltmode3	flight mode three
+fltmode4	flight mode four
+fltmode5	flight mode five
+fltmode6	flight mode six
+fltmode7	flight mode seven
+fltmode8	flight mode eight
+fsoff	failsafe off
+fson	failsafe on
+geardn	gear down
+gearup	gear up
+gps	GPS
+hirates	high rates
+htoff	head track off
+hton	head track on
+ioc	IOC
+iocoff	IOC off
+lowrates	low rates
+manual	manual
+normal	normal
+nrmmod	normal mode
+rx_org	receiver battery low
+rx_red	receiver battery critical
+thrhold	throttle hold
+thrrel	throttle release

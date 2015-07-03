@@ -1,0 +1,57 @@
+FLAPS
+
+flapsup	flaps up
+flapsdn	flaps down
+flaps1	flaps one
+flaps2	flaps two
+flapsdep	flaps deployed
+flaphlf	flaps half
+flapfll	flaps full
+flpnorm	flaps normal
+flpail	flaps synced with ailerons
+flaps	flaps
+
+AILERONS
+
+srf_ail	aileron
+srf_ails	ailerons
+ailhgh	aileron high
+ailmed	aileron medium
+aillow	aileron low
+
+ELEVATOR
+
+srf_elv	elevator
+elehigh	elevator high
+elemed	elevator medium
+elelow	elevator low
+
+RUDDER
+
+srf_rud	rudder
+rudhgh	rudder high
+rudmed	rudder medium
+rudlow	rudder low
+
+THROTTLE
+
+srf_thr	throttle
+thract	throttle active
+thrcut	throttle cut
+thrhold	throttle hold
+thrlock	throttle lock
+thready	throttle ready
+thrrel	throttle release
+idlup	idle up
+idlup1	idle up 1
+idlup2	idle up 2
+idldwn	idle down
+ignon	ignition on
+ignact	ignition active
+ignoff	ignition off
+thrdis	throttle disabled
+engarm	engines armed
+engdisa	engines disarmed
+engdis	engine disabled
+engoff	engine off
+engon	engine on

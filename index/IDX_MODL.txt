@@ -1,0 +1,20 @@
+MODELS
+
+phant	phantom
+phant2	phantom 2
+phant3	phantom 3
+inspire	inspire one
+nanoqx	nano QX
+nanoqxf	nano QX FPV
+180qx	one eighty QX
+200qx	two hundred QX
+350qx	three fifty QX
+tbs	TBS
+tbsdisco	TBS disco
+dscvry	discovery
+dscvryp	discovery pro
+gemini	gemini
+zmr250	ZMR two fifty
+qav250	Q- A- V- two fifty
+nucls	nucleus
+emax250	e-max two fifty

@@ -1,0 +1,11 @@
+JETS
+
+brkson	brakes on
+brksoff	brakes off
+abrkop	air brakes open
+abrkcl	air brakes closed
+airbk	airbrake
+airbkoff	airbrake off
+fandf	fast and flat
+ductf	ducted fan
+jett	jet turbine

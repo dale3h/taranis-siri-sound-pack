@@ -1,0 +1,7 @@
+SYSTEM TELEMETRY
+
+lwstcell	lowest cell
+battcns	battery consumption
+packvlt	pack voltage
+currdrw	current draw
+pwrrd	power reading

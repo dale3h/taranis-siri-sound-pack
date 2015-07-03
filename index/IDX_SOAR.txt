@@ -1,0 +1,30 @@
+SOARING
+
+soring	soaring
+pwrgld	power glider
+thrml	thermal
+thrmlmd	thermal mode
+lndgmd	landing mode
+crowon	crow on
+crowoff	crow off
+btflyon	butterfly on
+btflyoff	butterfly off
+reflex	reflex
+splrop	spoiler open
+splrcl	spoiler closed
+clmb	climbing
+dscnd	descending
+speed	speed
+speedmd	speed mode
+lnch	launch
+lnchmd	launch mode
+cruz	cruise
+cruzmd	cruise mode
+loitr	loiter
+loitrmd	loiter mode
+zoom	zoom
+zoommd	zoom mode
+seek	seek
+seekmd	seek mode
+dlg	DLG
+dlgf	discus launch glider

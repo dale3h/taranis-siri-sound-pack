@@ -1,0 +1,10 @@
+RATES
+
+lowrates	low rates
+midrates	mid rates
+hirates	high rates
+3drtson	3D rates on
+3drtsoff	3D rates off
+3drtsact	3D rates active
+expoon	expo on
+expooff	expo off

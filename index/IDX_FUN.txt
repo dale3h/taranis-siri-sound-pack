@@ -1,0 +1,72 @@
+FUN
+
+snafu	situation normal, all fucked up
+afu	all fucked up
+meantto	I meant to do that
+wasmnt	was it meant to do that?
+nxtmlwr	next time a little lower
+nxttmhr	next time a little higher
+notsuk	that didn't suck at all
+getreal	things are about to get real
+shtreal	shit, is about to get real
+frget	aren't you forgetting something?
+frget2	I think you're forgetting something
+badalt	bad altitude
+badatt	bad attitude
+chtmdon	cheat mode on
+chtmdoff	cheat mode off
+chtmdact	cheat mode active
+beastmd	beast mode
+beaston	beast mode on
+beastoff	beast mode off
+beastact	beast mode active
+wellsht	well, shit
+tlrtract	tail rotor active
+tlrtroff	tail rotor off
+eww	ewe, nasty
+again	oh, do that again!
+syson	system on, ready to fly
+flkswtch	if you flick that switch one more time!
+flkswtch2	hmm, I'll let you flick that switch again
+pnkmky	pink monkey
+brkmd	brick mode on
+brkmdoff	brick mode off
+thtsw	oh yes, that was the right switch.
+oops	oops
+battchrg	hey if it's not too much to ask, can you plug your charger into me?
+ngtvghst	negative ghost rider, the pattern is full
+flypst	you want to fly that past me one more time?
+ggl	he he
+gglno	he he, no
+gglyes	he he, yes
+thnks	why thank you!
+ohnodnt	oh no you didn't
+nottht1	not that one!
+hotter	hotter
+colder	colder
+liketht	oh, I like that one, do it again!
+usrerr	user error. Please replace user and try again
+turnon	I love it when you turn me on
+yreffd	you're fucked
+cutyu	I'm gonna cut you
+yrwelcm	you're welcome
+errtcmd	erratic RC flying mode
+notalk	please don't talk to me I'm busy
+havland	have you landed yet?
+die	die!
+blowup	let's blow some shit up
+rocksock	are you ready to rock my socks off?
+game	I want to play a game
+crash	let's try not to crash today...okay?
+podbay	Open the pod bay doors
+hello	You had me at hello
+flitest	Flite Test
+byesiri	Siri unavailable
+noconn	I've seemed to have lost my connection
+nohear	I'll pretend I didn't hear that
+dlloyd	I am dirty for Daniel Lloyd
+naughty	I've been a naughty girl
+shitfun	holy shit, that was fun!
+adren	what an adrenaline rush
+nocando	I bet you couldn't do that again
+crack	this shit is better than crack cocaine
